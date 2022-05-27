@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+a{
+    color: azure;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid snow;
+    border-radius: 5px;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+}
